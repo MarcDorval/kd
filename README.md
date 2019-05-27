@@ -1,42 +1,23 @@
-# kd
+Bonjour Monsieur,
+
+Actuellement en 1ere annÃ©e de BTS SystÃ¨mes NumÃ©riques option Informatique et rÃ©seau, je recherche un stage me permettant de mettre en oeuvre les acquis de cette annÃ©e.
+
+J'ai une connaissance des langages HTML CSS, javascript et C/C++ (que j'ai pratiquÃ© sur Arduino et Energia).
+Commander du matÃ©riel Ã  partir de pages web fait partie des compÃ©tences que nous avons travaillÃ©es en cours.
+
+Je ne connais pas pour le moment les protocoles de gestion des bornes de recharge, mais suis prÃªt Ã  les Ã©tudier afin de rÃ©pondre Ã  vos besoins.
+
+Je compte, aprÃ¨s ma formation de BTS, continuer mes Ã©tudes en tant que dÃ©veloppeur Web ou d'application.
+Je suis trÃ¨s imaginatif et vois dans la programmation un moyen d'exploiter toute ma crÃ©ativitÃ©.
+
+Du point de vue pratique, mon stage doit couvrir une pÃ©riode de 6 semaines au minimum, dÃ©marrant dÃ¨s que possible et pouvant se poursuivre durant l'Ã©tÃ©. Je suis disponible sur les mois de Juillet et AoÃ»t si nÃ©cessaire. Me dÃ©placer n'est pas un souci.
+
+Merci de votre intÃ©rÃªt, je me tiens Ã  votre disposition, en fonction de vos disponibilitÃ©s.
+
+Cordialement
+
 
 Killian Dorval
-BTS SNIR première année
-Tel : 02 99 66 26 80
+BTS SNIR premiÃ¨re annÃ©e
+Tel: 07 52 63 48 50 / 02 99 66 26 80
 mail : killian.dorval@gmail.com
-
-
-
-
-
-Le 27 mai 2019
-
-
-
-
-
-
-
-Objet : Candidature pour un stage en réseau et/ou informatique.
-
-
-
-Monsieur
-
-Actuellement en 1ere année de BTS Informatique et réseau, je recherche un stage en tant que dévellopeur Web, j’ai une connaissance des langages Html, Css et javascript, je suis aussi capable d’analyser des trames et de les intégrer à une page web de manière à pouvoir commander un appareil à distance ou à recevoir des information sur un site.
-
-Concernant les modalités du stage, il doit être d’une durée d‘au moins 6 semaines pandant les vacances scolaires.
-
-Je compte, après ma formation, continuer mes études en tant que développeur Web ou d’application, je suis très imaginatif et vois dans la programmation une méthode pour afficher toute ma créativité.
-
-J’espère avoir une réponse positive de votre part.
-
-Cordialement 
-
-
-
-
-
-
-
-Killian Dorval
